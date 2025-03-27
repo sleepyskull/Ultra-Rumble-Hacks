@@ -15,3 +15,5 @@
   Step 5: Attach CT file to the game
 
   Step 6: Toggle hacks and enjoy
+
+(Note: Skill and Special Action Cooldown was made primarily for Mirio Togata so you do not need to activate with other characters)
