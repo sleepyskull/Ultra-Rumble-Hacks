@@ -12,6 +12,6 @@
 
   Step 4: Run the game and open MHUR.CT
   
-  Step 5: Attach CT file to MHUR.exe
+  Step 5: Attach CT file to the game
 
   Step 6: Toggle hacks and enjoy
