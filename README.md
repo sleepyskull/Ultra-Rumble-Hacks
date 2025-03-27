@@ -16,4 +16,5 @@
 
   Step 6: Toggle hacks and enjoy
 
-(Note: Skill and Special Action Cooldown was made primarily for Mirio Togata so you do not need to activate with other characters)
+(Note: Skill and Special Action Cooldown Removal was made for Mirio Togata so you do not need to activate with other characters.
+Let abilities charge once at the start of match before activating cooldown removal.)
